@@ -1,0 +1,80 @@
+head
+    {
+        text-align: center
+    }
+
+.tittle
+{
+  text-decoration: underline;
+}
+
+.heading
+  {
+    border-radius: 25px;
+    width: 600px;
+    height: 200px;
+    margin: 0 auto;
+    border: 12px groove #1C6EA4;
+    color: #002266;
+    background-color: #003cb3;
+  }
+
+body
+    {
+        font-size: 25px;
+        padding: 40px;
+        background-image:url("https://i.pinimg.com/474x/05/34/d6/0534d6f7922c3307e6b3b1aaa12ebc5d.jpg");
+        text-align: center;
+    }
+
+.h2Underline
+  {
+    border-bottom: 12px double #1C6EA4;
+    box-sizing: border-box;
+    width: 200px;
+    margin: auto;
+  }
+
+button
+{
+  border-radius: 40px;
+}
+
+
+.tutorialTitle
+{
+  margin: 0 auto;
+
+}
+
+.tutorialText
+{
+  font-size:15px;
+  margin-bottom: 0px;
+}
+
+.tutorial
+{
+    margin: 0 auto;
+    color: #002266;
+    width: 500px;
+    height: 200px;
+
+    border: 16px groove #1C6EA4;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #003cb3;
+}
+
+.buttonArea
+  {
+    color: #002266;
+    width: 325px;
+    height: 150px;
+    margin: 0 auto;
+    border: 16px groove #1C6EA4;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #003cb3;
+
+  }
